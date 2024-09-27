@@ -1,0 +1,13 @@
+package com.akSol;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WebMvcBookAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
